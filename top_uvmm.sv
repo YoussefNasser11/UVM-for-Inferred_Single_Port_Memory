@@ -3,8 +3,7 @@
 ##     Inferred Single-Port Memory                          ##
 ##     Verification using UVM                               ##                 
 ##     Async reset and Sync Write and Read Operation        ##
-##     Copyright (c) 2023  DV Analyst Diploma               ##
-#      round 10 Dr:Sherif   PhD. Sherif Hosny               ##
+##     Copyright (c) 2023                                   ##
 ##     All rights reserved.                         	      ##
 ############################################################*/
 
